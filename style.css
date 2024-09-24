@@ -1,3 +1,21 @@
+
+*{
+    color:#E6C010;
+
+}
+body{
+    background-color: #2949A6;
+}
 h1{
     text-align: center;
+    background-color: #6177E6;
+}
+p{
+    width:50%;
+}
+.block1{
+    display:block;
+}
+table, tr, td {
+    border: 1px solid black;
 }
